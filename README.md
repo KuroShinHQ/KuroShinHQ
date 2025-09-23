@@ -12,9 +12,9 @@
 
 I'm a detail-oriented **Operations Professional** with a unique background in electronics and mechanics. I thrive on creating efficiency and solving complex problems with data-driven solutions. My hands-on technical experience allows me to understand not just the process, but the systems behind it, making me a versatile asset for any fast-growing tech team.
 
-- 🛠️ Foundational skills as a **Machine Technician**.
+- 🛠️ Foundational skills as a **(Oiler) Machine Technician**.
 - 🔭 Currently building a portfolio of **data analysis** and **market research** projects.
-- 🌱 Continuously improving my **English (A2)** and developing new **electronics projects**.
+- 🌱 Continuously improving my English skills (**Busuu: A2 - 44%** | **Duolingo: Section 2, Unit 22**).
 - 📫 How to reach me: **ulucayto456@gmail.com**
 
 </div>
