@@ -1,72 +1,73 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+KuroShinHQ;Remote+Operations+Professional;Data-Driven+Problem+Solver;Hands-on+Technical+Background" alt="Typing SVG" />
+  <img src="https://i.imgur.com/uG9X3yU.png" alt="KuroShinHQ Banner" />
 </p>
 
 <table align="center">
 <tr valign="top">
-<td width="50%">
+<td width="60%">
 
-### 👋 **About Me**
+<div align="left">
 
-I'm a professional dedicated to helping tech startups scale by improving efficiency and enabling data-driven decisions. My background in **electronics and mechanics** has provided me with a unique, hands-on approach to problem-solving, allowing me to understand not just the process, but the systems behind it.
+### **Hello, I'm KuroShinHQ** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- 🛠️ I have a foundational background as a **(Oiler)Machine Technician** with skills in mechanical systems and electronics from high school.
-- 🔭 I’m currently building a portfolio of data analysis projects while developing my future **electronics projects**.
-- 🌱 I’m improving my English skills daily (Currently **A2 - 44%** | **Duolingo: Section 2, Unit 22**).
-- 💬 Ask me about remote work, process optimization, or basic electronic circuits.
+I'm a detail-oriented **Operations Professional** with a unique background in electronics and mechanics. I thrive on creating efficiency and solving complex problems with data-driven solutions. My hands-on technical experience allows me to understand not just the process, but the systems behind it, making me a versatile asset for any fast-growing tech team.
 
+- 🛠️ Foundational skills as a **Machine Technician**.
+- 🔭 Currently building a portfolio of **data analysis** and **market research** projects.
+- 🌱 Continuously improving my **English (A2)** and developing new **electronics projects**.
+- 📫 How to reach me: **ulucayto456@gmail.com**
+
+</div>
 </td>
-<td width="50%">
+<td width="40%">
 
-### 🛠️ **Skills & Tools**
-
-<p align="center">
-  <img alt="Market Research" src="https://img.shields.io/badge/Market_Research-C25283?style=for-the-badge&logo=knowledgebase&logoColor=white" />
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00758F?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img alt="Reporting" src="https://img.shields.io/badge/Reporting-43853D?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img alt="Process Optimization" src="https://img.shields.io/badge/Process_Optimization-FFBF00?style=for-the-badge&logo=trello&logoColor=white" />
-  <img alt="Electronics" src="https://img.shields.io/badge/Electronics-00A1DE?style=for-the-badge&logo=-iFixit&logoColor=white" />
-  <img alt="Mechanics" src="https://img.shields.io/badge/Mechanics-595959?style=for-the-badge&logo=Cog&logoColor=white" />
-  <img alt="Technical Maintenance" src="https://img.shields.io/badge/Technical_Maintenance-D00000?style=for-the-badge&logo=tools&logoColor=white" />
-  <img alt="English A2" src="https://img.shields.io/badge/English-A2_Level-007ACC?style=for-the-badge&logo=Duolingo&logoColor=white" />
-</p>
+<img src="https://i.imgur.com/7i2tGf1.png" alt="Side Illustration" />
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-### 📊 **My GitHub Stats & Activity**
+### **Core Competencies & Tools**
+
+<img src="https://img.shields.io/badge/Data_Analysis-5A67D8?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis"/>
+<img src="https://img.shields.io/badge/Market_Research-4A5568?style=for-the-badge&logo=buffer&logoColor=white" alt="Market Research"/>
+<img src="https://img.shields.io/badge/Process_Optimization-38A169?style=for-the-badge&logo=trello&logoColor=white" alt="Process Optimization"/>
+<img src="https://img.shields.io/badge/Electronics-319795?style=for-the-badge&logo=-iFixit&logoColor=white" alt="Electronics"/>
+<img src="https://img.shields.io/badge/Mechanics-ED8936?style=for-the-badge&logo=Cog&logoColor=white" alt="Mechanics"/>
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuroShinHQ&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuroShinHQ&theme=gruvbox&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://i.imgur.com/vSDW44X.png" alt="Divider" />
 </p>
 
----
+<div align="center">
 
-### 📂 **My Projects**
+### **GitHub Analytics**
 
-This is where I will showcase my work and tangible proof of my skills.
+<img src="https://github-readme-stats.vercel.app/api?username=KuroShinHQ&show_icons=true&theme=transparent&bg_color=00000000&title_color=5A67D8&text_color=FFFFFF&icon_color=38A169&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KuroShinHQ&theme=react-dark&bg_color=00000000&hide_border=true&color=FFFFFF&line=38A169&point=5A67D8" alt="GitHub Activity Graph"/>
 
-**Operational Projects**
-1.  **Market Research Report (Work in Progress)**
-    * *Details will be added soon...*
-2.  **Data Analysis & Visualization Dashboard (Work in Progress)**
-    * *Details will be added soon...*
-
-**Electronics & Technical Projects**
-1.  **[Sistem Adı 1] - (Conceptual Phase)**
-    * *Details about my custom-designed system will be added here.*
-2.  **[Sistem Adı 2] - (Conceptual Phase)**
-    * *Details about my custom-designed system will be added here.*
-
----
-
-### 📫 **How to Reach Me**
+</div>
 
 <p align="center">
-  <a href="mailto:ulucayto456@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="[PROFIL-LINKINIZ-BURAYA-GELECEK]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://i.imgur.com/vSDW44X.png" alt="Divider" />
+</p>
+
+<div align="center">
+
+### **Portfolio & Projects**
+*Details about my market research, data analysis, and electronics projects will be showcased here soon.*
+
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/vSDW44X.png" alt="Divider" />
+</p>
+
+<p align="center">
+  <a href="mailto:ulucayto456@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="[PROFIL-LINKINIZ-BURAYA-GELECEK]"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
