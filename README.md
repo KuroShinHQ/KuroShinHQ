@@ -7,8 +7,8 @@ I'm a passionate operations professional dedicated to helping tech startups scal
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-NEW-USERNAME&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-NEW-USERNAME&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KuroShinHQ&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroShinHQ&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
 ---
