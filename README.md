@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/KuroShinHQ/KuroShinHQ/assets/171804706/31a7c8cf-51e9-467b-b5b6-ef3d7e79326e" alt="Dynamic Welcome Header" />
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/main/assets/header.png" alt="KuroShinHQ Banner" />
 </p>
+
 <table align="center">
 <tr valign="top">
 <td width="60%">
@@ -22,20 +23,22 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 
 <div align="center">
   <h3>🌟 **My Focus Areas** 🌟</h3>
-  <ul align="left">
+  <ul align="left" style="list-style-type: none; padding-left: 0;">
     <li>🚀 Startup Operational Excellence</li>
     <li>📈 Data-Driven Insights</li>
     <li>⚡ Technical Problem Solving</li>
     <li>🌐 Remote Team Empowerment</li>
   </ul>
 </div>
+
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/master/assets/divider.svg" alt="Divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/main/assets/divider.png" alt="Divider" />
 </p>
+
 <div align="center">
 
 ### **Core Competencies & Tools**
@@ -49,8 +52,9 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/master/assets/divider.svg" alt="Divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/main/assets/divider.png" alt="Divider" />
 </p>
+
 <div align="center">
 
 ### **GitHub Analytics**
@@ -61,8 +65,9 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/master/assets/divider.svg" alt="Divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/main/assets/divider.png" alt="Divider" />
 </p>
+
 <div align="center">
 
 ### **Portfolio & Projects**
@@ -71,8 +76,9 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/master/assets/divider.svg" alt="Divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/main/assets/divider.png" alt="Divider" />
 </p>
+
 <p align="center">
   <a href="mailto:ulucayto456@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="[PROFIL-LINKINIZ-BURAYA-GELECEK]"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
