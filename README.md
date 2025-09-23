@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://i.imgur.com/uG9X3yU.png" alt="KuroShinHQ Banner" />
+  <img src="https://github.com/KuroShinHQ/KuroShinHQ/assets/171804706/31a7c8cf-51e9-467b-b5b6-ef3d7e79326e" alt="Dynamic Welcome Header" />
 </p>
-
 <table align="center">
 <tr valign="top">
 <td width="60%">
 
 <div align="left">
 
-### **Hello, I'm KuroShinHQ** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+### **Hello, I'm KuroShinHQ** 👋
 
 I'm a detail-oriented **Operations Professional** with a unique background in electronics and mechanics. I thrive on creating efficiency and solving complex problems with data-driven solutions. My hands-on technical experience allows me to understand not just the process, but the systems behind it, making me a versatile asset for any fast-growing tech team.
 
@@ -21,12 +20,22 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 </td>
 <td width="40%">
 
-<img src="https://i.imgur.com/7i2tGf1.png" alt="Side Illustration" />
-
+<div align="center">
+  <h3>🌟 **My Focus Areas** 🌟</h3>
+  <ul align="left">
+    <li>🚀 Startup Operational Excellence</li>
+    <li>📈 Data-Driven Insights</li>
+    <li>⚡ Technical Problem Solving</li>
+    <li>🌐 Remote Team Empowerment</li>
+  </ul>
+</div>
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/master/assets/divider.svg" alt="Divider" width="100%" />
+</p>
 <div align="center">
 
 ### **Core Competencies & Tools**
@@ -40,9 +49,8 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/vSDW44X.png" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/master/assets/divider.svg" alt="Divider" width="100%" />
 </p>
-
 <div align="center">
 
 ### **GitHub Analytics**
@@ -53,9 +61,8 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/vSDW44X.png" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/master/assets/divider.svg" alt="Divider" width="100%" />
 </p>
-
 <div align="center">
 
 ### **Portfolio & Projects**
@@ -64,9 +71,8 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/vSDW44X.png" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/master/assets/divider.svg" alt="Divider" width="100%" />
 </p>
-
 <p align="center">
   <a href="mailto:ulucayto456@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="[PROFIL-LINKINIZ-BURAYA-GELECEK]"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
