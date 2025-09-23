@@ -10,7 +10,7 @@
 
 I'm a professional dedicated to helping tech startups scale by improving efficiency and enabling data-driven decisions. My background in **electronics and mechanics** has provided me with a unique, hands-on approach to problem-solving, allowing me to understand not just the process, but the systems behind it.
 
-- 🛠️ I have a foundational background as a **Machine Technician** with skills in mechanical systems and electronics from high school.
+- 🛠️ I have a foundational background as a **(Oiler)Machine Technician** with skills in mechanical systems and electronics from high school.
 - 🔭 I’m currently building a portfolio of data analysis projects while developing my future **electronics projects**.
 - 🌱 I’m improving my English skills daily (Currently **A2 - 44%** | **Duolingo: Section 2, Unit 22**).
 - 💬 Ask me about remote work, process optimization, or basic electronic circuits.
