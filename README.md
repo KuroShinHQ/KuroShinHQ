@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+KuroShinHQ;Remote+Operations+Professional;Data-Driven+Problem+Solver;Hands-on+Technical+Background" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/main/assets/header.png" alt="KuroShinHQ Mini Header" width="25%" /> 
+  </p>
 
 <table align="center">
 <tr valign="top">
@@ -35,7 +38,9 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/main/assets/divider.png" alt="KuroShinHQ Mini Divider" width="80%" />
+  </p>
 
 ### **Core Competencies & Tools**
 
