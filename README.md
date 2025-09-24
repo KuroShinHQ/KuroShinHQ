@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+KuroShinHQ;Remote+Operations+Professional;Data-Driven+Problem+Solver;Hands-on+Technical+Background" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/main/assets/header.png" alt="KuroShinHQ Mini Header" width="25%" /> 
-  </p>
+
 
 <table align="center">
 <tr valign="top">
@@ -11,13 +6,12 @@
 
 <div align="left">
 
-### **Hello, I'm KuroShinHQ** 👋
+### **Hello, I'm KuroShinHQ** 🚀
 
-I'm a detail-oriented **Operations Professional** with a unique background in electronics and mechanics. I thrive on creating efficiency and solving complex problems with data-driven solutions. My hands-on technical experience allows me to understand not just the process, but the systems behind it, making me a versatile asset for any fast-growing tech team.
+I'm an **AI-First Systems Architect** specializing in rapidly transforming complex ideas into functional prototypes. I orchestrate multiple AI tools and perform deep technical analysis—including reverse engineering—to bypass traditional development cycles and deliver working systems with radical speed. My background in electronics and mechanics provides me with a unique, hands-on approach to building robust and efficient systems.
 
-- 🛠️ Foundational skills as a **(Oiler) Machine Technician**.
-- 🔭 Currently building a portfolio of **data analysis** and **market research** projects.
-- 🌱 Continuously improving my English skills (**Busuu: A2 - 44%** | **Duolingo: Section 2, Unit 22**).
+- 🔭 I’m currently applying my skills to a portfolio of automation and system integration projects.
+- 🌱 I’m continuously improving my English (**Busuu: A2 - 44%** | **Duolingo: Section 2, Unit 22**).
 - 📫 How to reach me: **ulucayto456@gmail.com**
 
 </div>
@@ -25,12 +19,12 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 <td width="40%">
 
 <div align="center">
-  <h3>🌟 **My Focus Areas**</h3>
+  <h3>🌟 **Core Methodologies**</h3>
   <ul align="left" style="list-style-type: none; padding-left: 10px;">
-    <li>🚀 Startup Operational Excellence</li>
-    <li>📈 Data-Driven Insights</li>
-    <li>⚡ Technical Problem Solving</li>
-    <li>🌐 Remote Team Empowerment</li>
+    <li>💡 Rapid Idea-to-Prototype Cycles</li>
+    <li>🤖 Strategic AI Orchestration</li>
+    <li>🔎 Reverse Engineering & Integration</li>
+    <li>🧠 AI Context Engineering</li>
   </ul>
 </div>
 
@@ -38,18 +32,16 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KuroShinHQ/KuroShinHQ/main/assets/divider.png" alt="KuroShinHQ Mini Divider" width="80%" />
-  </p>
+
 
 ### **Core Competencies & Tools**
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data_Analysis-5A67D8?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis"/>
-<img src="https://img.shields.io/badge/Market_Research-4A5568?style=for-the-badge&logo=buffer&logoColor=white" alt="Market Research"/>
-<img src="https://img.shields.io/badge/Process_Optimization-38A169?style=for-the-badge&logo=trello&logoColor=white" alt="Process Optimization"/>
+<img src="https://img.shields.io/badge/Systems_Design-007ACC?style=for-the-badge&logo=opslevel&logoColor=white" alt="Systems Design"/>
+<img src="https://img.shields.io/badge/AI_Orchestration-4A5568?style=for-the-badge&logo=openai&logoColor=white" alt="AI Orchestration"/>
+<img src="https://img.shields.io/badge/Rapid_Prototyping-38A169?style=for-the-badge&logo=fastapi&logoColor=white" alt="Rapid Prototyping"/>
+<img src="https://img.shields.io/badge/API_Integration-ED8936?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration"/>
 <img src="https://img.shields.io/badge/Electronics-319795?style=for-the-badge&logo=-iFixit&logoColor=white" alt="Electronics"/>
-<img src="https://img.shields.io/badge/Mechanics-ED8936?style=for-the-badge&logo=Cog&logoColor=white" alt="Mechanics"/>
 </p>
 
 ---
@@ -67,7 +59,7 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 
 <div align="center">
 
-*Details about my market research, data analysis, and electronics projects will be showcased here soon.*
+*Showcasing projects where I architected and built systems using AI orchestration. Details coming soon.*
 
 </div>
 
@@ -77,5 +69,4 @@ I'm a detail-oriented **Operations Professional** with a unique background in el
 
 <p align="center">
   <a href="mailto:ulucayto456@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/yasin-yağcı-3ba487218/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+  <a href="https://www.linkedin.com/in/yasin-yağcı-3ba487218/"><img src="
