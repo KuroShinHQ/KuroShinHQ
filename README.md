@@ -13,7 +13,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:e94560&height=4&section=header" />
 
 ## 🧬 The Story
 
@@ -29,7 +29,7 @@ Electrician  ──────────────────────�
 > Same obsession with how systems work. Different domain.  
 > **Everything I build runs in production. No demos. No toys.**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:e94560,100:f5a623&height=4&section=header" />
 
 ## 🚀 Projects
 
@@ -119,27 +119,25 @@ Watch this space.
 </table>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:f5a623,100:1a1a2e&height=4&section=header" />
 
 ## 🛠️ Skills
 
 <div align="center">
 
-**Languages**
+**Languages & Runtimes**
 
 [![Skills](https://skillicons.dev/icons?i=python,go,java,nodejs,cpp,cs,bash&perline=7)](https://skillicons.dev)
 
-**AI / ML / Infra**
+**AI · ML · Infrastructure**
 
 [![Skills](https://skillicons.dev/icons?i=docker,linux,git,sqlite,pytorch,arduino,vscode&perline=7)](https://skillicons.dev)
 
-**Creative / Hardware**
+**Creative · Hardware · GameDev**
 
 [![Skills](https://skillicons.dev/icons?i=blender,unity,unreal,androidstudio,ae,ps,figma&perline=7)](https://skillicons.dev)
 
-</div>
-
-<div align="center">
+<br/>
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![curl_cffi](https://img.shields.io/badge/curl__cffi-anti--bot-critical?style=flat-square)
@@ -149,11 +147,11 @@ Watch this space.
 ![CUDA](https://img.shields.io/badge/CUDA_11.8-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![mitmproxy](https://img.shields.io/badge/mitmproxy-protocol--analysis-blueviolet?style=flat-square)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-arduino-red?style=flat-square&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:e94560&height=4&section=header" />
 
 ## 🔬 Currently Exploring
 
@@ -167,7 +165,7 @@ research = [
 ]
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:e94560,100:f5a623&height=4&section=header" />
 
 ## ⚡ Beyond Code
 
@@ -180,7 +178,7 @@ research = [
 | 🚁 FPV drone tuning (Betaflight) | 🧊 3D modeling (Blender · Cinema 4D) | 🌾 Indie building (Stardew · Terraria) |
 | ⚡ Electronics sim (Fritzing · Arduino) | 🎮 Game dev (Unity · Unreal) | 🧟 Horror (RE7 · Outlast · Darkest DD) |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:f5a623,100:1a1a2e&height=4&section=header" />
 
 ## 📊 Stats
 
@@ -196,6 +194,19 @@ research = [
 <br/>
 
 [![Streak](https://streak-stats.demolab.com?user=KuroShinHQ&theme=tokyonight&hide_border=true&background=0d1117&ring=f5a623&fire=f5a623&currStreakLabel=f5a623&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KuroShinHQ&theme=tokyo-night&bg_color=0d1117&color=f5a623&line=e94560&point=f5a623&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuroShinHQ&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KuroShinHQ&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KuroShinHQ&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KuroShinHQ&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KuroShinHQ&theme=tokyonight&utcOffset=3" height="150"/>
 
 </div>
 
