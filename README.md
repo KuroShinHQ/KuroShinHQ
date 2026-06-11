@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=F5A623&background=00000000&center=true&vCenter=true&width=750&height=45&lines=Building+autonomous+AI+tools+%F0%9F%A4%96;Web+scraping+%2B+anti-bot+bypass+%F0%9F%94%8D;Custom+CPU+architecture+%2B+VM+design+%F0%9F%92%BB;LLM+protocol+reverse-engineering+%F0%9F%94%AC;Based+in+Turkey+%C2%B7+Available+worldwide+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=F5A623&center=true&vCenter=true&width=800&height=45&lines=Building+autonomous+AI+tools+that+run+in+production+%F0%9F%A4%96;Web+scraping+%2B+anti-bot+bypass+%F0%9F%94%8D;PCB+design+%2B+FPV+drones+%2B+3D+printing+%E2%9A%A1;Custom+CPU+architecture+%2B+VM+design+%F0%9F%92%BB;LLM+reverse-engineering+%2B+Gemma+LoRA+fine-tune+%F0%9F%94%AC;Based+in+Turkey+%C2%B7+Available+worldwide+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasin-yagci-dataqa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kuroshinhq)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulucayto456@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=KuroShinHQ&color=f5a623&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/KuroShinHQ)
+[![Profile Views](https://komarev.com/ghpvc/?username=KuroShinHQ&color=f5a623&style=for-the-badge&label=VIEWS)](https://github.com/KuroShinHQ)
 
 </div>
 
@@ -18,14 +18,14 @@
 ## 🧬 The Story
 
 ```
-Electrician  ──────────────────────►  AI Developer
-     ⚡                                     🤖
-  circuits                               agents
-  voltage                                vectors  
-  wiring                                 weights
+Electrician  ──────────────────────────────►  AI Developer
+     ⚡                                              🤖
+  read schematics                            read attention maps
+  wire circuits                              wire neural nets
+  debug with multimeter                      debug with logs
+  build with hands                           build with code
 ```
 
-> I went from reading electrical diagrams to training neural networks.  
 > Same obsession with how systems work. Different domain.  
 > **Everything I build runs in production. No demos. No toys.**
 
@@ -44,9 +44,9 @@ Electrician  ──────────────────────�
 Local LLM · No cloud · $0 cost
 26-tool Telegram agent
 RAG memory · Security layer
-Multi-agent orchestration
+MIRROR/Thinker-Talker architecture
 
-`Python` `Docker` `ChromaDB`
+`Python` `ChromaDB` `llama.cpp`
 
 </td>
 <td align="center" width="33%">
@@ -56,8 +56,8 @@ Multi-agent orchestration
 
 Trendyol · HB · Sahibinden · Epey
 Anti-bot bypass built-in
-Cookie management included
-CSV/JSON export ready
+Cookie + session management
+CSV/JSON export · Business-ready
 
 `Playwright` `curl_cffi` `Python`
 
@@ -70,7 +70,7 @@ CSV/JSON export ready
 8-bit VM · 5 registers · 11 opcodes
 KuroC custom language
 Cyberpunk terminal UI
-→ KuroShinOS roadmap
+→ KuroShinOS microkernel roadmap
 
 `Python` `Docker` `Custom ISA`
 
@@ -106,13 +106,13 @@ Gemma LoRA fine-tune result
 <td align="center" width="33%">
 
 ### 📡 Always Building
-**Next project in progress...**
+**Next project loading...**
 
 Always building.
 Always shipping.
 Watch this space.
 
-⭐ `Star to follow`
+⭐ Star to follow
 
 </td>
 </tr>
@@ -121,23 +121,64 @@ Watch this space.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Skills
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,docker,linux,git,sqlite,vscode,bash&perline=7)](https://skillicons.dev)
+**Languages**
 
-<br/>
+[![Skills](https://skillicons.dev/icons?i=python,go,java,nodejs,cpp,cs,bash&perline=7)](https://skillicons.dev)
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/WSL2_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![curl_cffi](https://img.shields.io/badge/curl__cffi-anti--bot-critical?style=flat-square)
-![mitmproxy](https://img.shields.io/badge/mitmproxy-protocol--analysis-blueviolet?style=flat-square)
+**AI / ML / Infra**
+
+[![Skills](https://skillicons.dev/icons?i=docker,linux,git,sqlite,pytorch,arduino,vscode&perline=7)](https://skillicons.dev)
+
+**Creative / Hardware**
+
+[![Skills](https://skillicons.dev/icons?i=blender,unity,unreal,androidstudio,ae,ps,figma&perline=7)](https://skillicons.dev)
 
 </div>
+
+<div align="center">
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![curl_cffi](https://img.shields.io/badge/curl__cffi-anti--bot-critical?style=flat-square)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA_11.8-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![mitmproxy](https://img.shields.io/badge/mitmproxy-protocol--analysis-blueviolet?style=flat-square)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-arduino-red?style=flat-square&logo=espressif&logoColor=white)
+
+</div>
+
+---
+
+## 🔬 Currently Exploring
+
+```python
+research = [
+    "Abliterated LLM optimization for 8GB VRAM (quantized Qwen3 / Gemma4)",
+    "MIRROR architecture — Thinker-Talker dual-process AI inner monologue",
+    "Autonomous agent loops: idle engine + emotional state modeling",
+    "Anti-bot bypass evolution: nodriver vs camoufox vs curl_cffi",
+    "Self-sustaining AI business models with $0 infrastructure cost",
+]
+```
+
+---
+
+## ⚡ Beyond Code
+
+> *When I'm not shipping code, I'm building other things.*
+
+| Hardware | Creative | Games |
+|---|---|---|
+| 🔌 PCB design (KiCad · Proteus · EasyEDA) | 🎨 Digital art (CLIP STUDIO · Live2D) | ⚔️ FromSoftware (Elden Ring · Sekiro) |
+| 🖨️ 3D printing (Ender 3 S1, PETG/PLA) | 🎬 Motion graphics (After Effects) | 🏕️ Colony survival (RimWorld · Kenshi) |
+| 🚁 FPV drone tuning (Betaflight) | 🧊 3D modeling (Blender · Cinema 4D) | 🌾 Indie building (Stardew · Terraria) |
+| ⚡ Electronics sim (Fritzing · Arduino) | 🎮 Game dev (Unity · Unreal) | 🧟 Horror (RE7 · Outlast · Darkest DD) |
 
 ---
 
@@ -164,9 +205,9 @@ Watch this space.
 
 **Got a project in mind?**
 
-*Web scraping · AI automation · Data pipelines · Telegram bots · LLM tooling*
+*Web scraping · AI automation · Data pipelines · Telegram bots · LLM tooling · Electronics*
 
-Open an issue or drop an email — **let's build something that works.**
+Open an issue or drop an email — **let's build something real.**
 
 </div>
 
