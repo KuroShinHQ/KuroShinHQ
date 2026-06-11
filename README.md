@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=600&color=F5A623&center=true&vCenter=true&width=750&height=40&lines=Reverse-engineered+a+commercial+LLM+protocol+with+mitmproxy;Scraped+10+products+in+2.5s+with+0%25+bot+detection;Designed+a+custom+8-bit+CPU+ISA+from+scratch;97%2F97+tests+passing+on+a+local+35B+LLM+system" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=600&color=F5A623&center=true&vCenter=true&width=750&height=40&lines=Reverse-engineered+a+commercial+LLM+protocol+via+mitmproxy;Scraped+10+products+in+2.5s+with+0%25+bot+detection+rate;Designed+a+custom+8-bit+CPU+ISA+%2B+language+from+scratch;97%2F97+tests+passing+on+a+local+35B+param+LLM+system" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -177,7 +177,6 @@ Electrician  ──────────────────────�
 <td valign="top" width="50%">
 
 ### Always Building
-**Next project loading...**
 
 ```python
 while True:
@@ -199,16 +198,20 @@ while True:
 
 <div align="center">
 
-**Languages & Runtimes**
-[![](https://skillicons.dev/icons?i=python,go,java,nodejs,cpp,cs,bash&perline=7)](https://skillicons.dev)
-
-**AI · ML · Infrastructure**
-[![](https://skillicons.dev/icons?i=docker,linux,git,sqlite,pytorch,arduino,vscode&perline=7)](https://skillicons.dev)
-
-**Creative · Hardware · GameDev**
-[![](https://skillicons.dev/icons?i=blender,unity,unreal,androidstudio,ae,ps,figma&perline=7)](https://skillicons.dev)
+<sub><b>Languages & Runtimes</b></sub><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,go,java,nodejs,cpp,cs,bash" /></a>
 
 <br/>
+
+<sub><b>AI · ML · Infrastructure</b></sub><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,git,sqlite,pytorch,arduino,vscode" /></a>
+
+<br/>
+
+<sub><b>Creative · Hardware · GameDev</b></sub><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,unity,unreal,androidstudio,ae,ps,figma" /></a>
+
+<br/><br/>
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![curl_cffi](https://img.shields.io/badge/curl__cffi-TLS_spoof-critical?style=flat-square)
@@ -247,7 +250,7 @@ research = {
 | PCB design · KiCad · Proteus · EasyEDA | Digital art · CLIP STUDIO · Live2D | FromSoftware fan (Elden Ring · Sekiro) |
 | 3D printing · Ender 3 S1 · PETG/PLA | Motion graphics · After Effects | Colony survival · RimWorld (all DLC) · Kenshi |
 | FPV drone tuning · Betaflight | 3D modeling · Blender · Cinema 4D | Indie builder · Stardew · Terraria |
-| Electronics simulation · Fritzing · Arduino | Game dev · Unity · Unreal | Horror · RE7 · Outlast · Darkest DD |
+| Electronics sim · Fritzing · Arduino | Game dev · Unity · Unreal | Horror · RE7 · Outlast · Darkest DD |
 
 ---
 
