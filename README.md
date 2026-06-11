@@ -19,7 +19,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  > kuroshin --status                                             ║
 ║                                                                  ║
-║  Kuroshin OS v11.33.1  ·  Qwen3-35B-A3B IQ4_XS  ·  ctx=256K    ║
+║  Kuroshin OS v11.33.1  ·  Qwen3-35B-A3B IQ4_XS  ·  ctx=256K      ║
 ║  ──────────────────────────────────────────────────────────────  ║
 ║  Iron Inquisitor    97/97 PASS    ████████████████  100.0%       ║
 ║  Active tools       26/26         ████████████████  100.0%       ║
@@ -248,7 +248,7 @@ research = {
 | Hardware | Creative | Games |
 |---|---|---|
 | PCB design · KiCad · Proteus · EasyEDA | Digital art · CLIP STUDIO · Live2D | FromSoftware fan (Elden Ring · Sekiro) |
-| 3D printing · Ender 3 S1 · PETG/PLA | Motion graphics · After Effects | Colony survival · RimWorld (all DLC) · Kenshi |
+| 3D printing · Ender 3 S1 · PETG/PLA | Motion graphics · After Effects | Colony survival · RimWorld · Kenshi |
 | FPV drone tuning · Betaflight | 3D modeling · Blender · Cinema 4D | Indie builder · Stardew · Terraria |
 | Electronics sim · Fritzing · Arduino | Game dev · Unity · Unreal | Horror · RE7 · Outlast · Darkest DD |
 
@@ -258,7 +258,7 @@ research = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KuroShinHQ&theme=dracula&column=7&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KuroShinHQ&theme=onedark&column=7&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
