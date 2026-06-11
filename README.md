@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+KuroShinHQ+%F0%9F%91%8B;Building+AI+tools+that+work;Web+scraping+%2B+Automation+%2B+LLM;Open+to+freelance+%26+contracts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+KuroShinHQ+%F0%9F%91%8B;Building+AI+%26+systems+tools+that+work;LLM+%7C+Web+Scraping+%7C+VM+Architecture;Open+to+freelance+%26+contracts" alt="Typing SVG" />
 
 <br/>
 
@@ -15,26 +15,29 @@
 
 ## ⚡ About Me
 
-> *Electrical background. AI mindset. I build autonomous tools that run 24/7 without breaking.*
+> *Electrical background. AI mindset. I build autonomous tools that actually run in production.*
 
-- 🤖 Building **Kuroshin OS** — a fully local autonomous AI assistant (no cloud, no cost)
-- 🔍 Creator of **KuroRecon** — Turkish e-commerce price intelligence toolkit
-- 🌍 Based in **Kahramanmaraş, Turkey** · Working remotely
-- 💼 Open to **freelance & contract** — scraping, AI automation, data pipelines
-- ⚡ Background: Electrical systems → pivoted to AI/data engineering
+- 🤖 Creator of **Kuroshin OS** — fully local autonomous AI assistant (no cloud, $0 cost)
+- 🔍 Built **KuroRecon** — Turkish e-commerce price intelligence with anti-bot bypass
+- 💻 Designed **KuroShinVM** — custom 8-bit CPU architecture + KuroC language + Docker
+- 🔬 Built **AI-Model-Scanner** — scanned 9,109 files, extracted 3,036 ML experiments
+- 🛠️ Reverse-engineered commercial LLM tool-use protocol via **mitmproxy** to fine-tune local models
+- 🌍 Based in **Kahramanmaraş, Turkey** · Available remotely
+- 💼 Open to **freelance & contract** — scraping, AI automation, data pipelines, LLM tooling
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
-| 🧠 Kuroshin OS | 🔍 KuroRecon |
-|---|---|
-| Autonomous AI assistant — fully on-device | Turkish e-commerce price tracker |
-| Local LLM · no cloud · no cost | Trendyol · HB · Sahibinden · Epey |
-| Telegram bot · 26-tool agent | Anti-bot bypass built-in |
-| RAG memory · Security layer · Multi-agent | Clean CSV/JSON export · Business-ready |
+| Project | What it does | Stack |
+|---|---|---|
+| 🧠 **Kuroshin OS** | Autonomous AI assistant — local LLM, Telegram bot, 26-tool agent, RAG memory, security layer | Python · Docker · ChromaDB |
+| 🔍 **KuroRecon** | Turkish e-commerce price tracker — Trendyol, HB, Sahibinden, Epey with anti-bot bypass | Playwright · curl_cffi · CSV/JSON |
+| 💻 **KuroShinVM** | Custom 8-bit CPU (5 registers, 11 opcodes, KuroC language), cyberpunk terminal UI | Python · Docker · Custom ISA |
+| 🔬 **AI-Model-Scanner** | ML training log analyzer — 9,109 files, 3,036 experiments, regex pattern engine | Python · Regex · JSON reporting |
+| 🛠️ **Kuroshin-CLI** | Token-efficient LLM CLI — reverse-engineered tool-use protocol + Gemma LoRA fine-tune | mitmproxy · LM Studio · Ollama |
 
 </div>
 
@@ -49,9 +52,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -78,7 +81,7 @@
 
 ### 💬 Got a project in mind?
 
-*Web scraping · AI automation · Data pipelines · Telegram bots*
+*Web scraping · AI automation · Data pipelines · Telegram bots · LLM tooling*
 
 **Open an issue or drop an email — let's build something.**
 
