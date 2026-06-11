@@ -1,77 +1,160 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e94560,100:f5a623&height=220&section=header&text=KuroShinHQ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1+Electrician+turned+AI+Developer&descAlignY=60&descSize=22&descColor=f5a623" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+KuroShinHQ+%F0%9F%91%8B;Building+AI+%26+systems+tools+that+work;LLM+%7C+Web+Scraping+%7C+VM+Architecture;Open+to+freelance+%26+contracts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=F5A623&background=00000000&center=true&vCenter=true&width=750&height=45&lines=Building+autonomous+AI+tools+%F0%9F%A4%96;Web+scraping+%2B+anti-bot+bypass+%F0%9F%94%8D;Custom+CPU+architecture+%2B+VM+design+%F0%9F%92%BB;LLM+protocol+reverse-engineering+%F0%9F%94%AC;Based+in+Turkey+%C2%B7+Available+worldwide+%F0%9F%8C%8D" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasin-yagci-dataqa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kuroshinhq)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulucayto456@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=KuroShinHQ&color=orange&style=for-the-badge)](https://github.com/KuroShinHQ)
+[![Profile Views](https://komarev.com/ghpvc/?username=KuroShinHQ&color=f5a623&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/KuroShinHQ)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧬 The Story
 
-> *Electrical background. AI mindset. I build autonomous tools that actually run in production.*
+```
+Electrician  ──────────────────────►  AI Developer
+     ⚡                                     🤖
+  circuits                               agents
+  voltage                                vectors  
+  wiring                                 weights
+```
 
-- 🤖 Creator of **Kuroshin OS** — fully local autonomous AI assistant (no cloud, $0 cost)
-- 🔍 Built **KuroRecon** — Turkish e-commerce price intelligence with anti-bot bypass
-- 💻 Designed **KuroShinVM** — custom 8-bit CPU architecture + KuroC language + Docker
-- 🔬 Built **AI-Model-Scanner** — scanned 9,109 files, extracted 3,036 ML experiments
-- 🛠️ Reverse-engineered commercial LLM tool-use protocol via **mitmproxy** to fine-tune local models
-- 🌍 Based in **Kahramanmaraş, Turkey** · Available remotely
-- 💼 Open to **freelance & contract** — scraping, AI automation, data pipelines, LLM tooling
+> I went from reading electrical diagrams to training neural networks.  
+> Same obsession with how systems work. Different domain.  
+> **Everything I build runs in production. No demos. No toys.**
 
 ---
 
 ## 🚀 Projects
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🧠 **Kuroshin OS** | Autonomous AI assistant — local LLM, Telegram bot, 26-tool agent, RAG memory, security layer | Python · Docker · ChromaDB |
-| 🔍 **KuroRecon** | Turkish e-commerce price tracker — Trendyol, HB, Sahibinden, Epey with anti-bot bypass | Playwright · curl_cffi · CSV/JSON |
-| 💻 **KuroShinVM** | Custom 8-bit CPU (5 registers, 11 opcodes, KuroC language), cyberpunk terminal UI | Python · Docker · Custom ISA |
-| 🔬 **AI-Model-Scanner** | ML training log analyzer — 9,109 files, 3,036 experiments, regex pattern engine | Python · Regex · JSON reporting |
-| 🛠️ **Kuroshin-CLI** | Token-efficient LLM CLI — reverse-engineered tool-use protocol + Gemma LoRA fine-tune | mitmproxy · LM Studio · Ollama |
+### 🧠 Kuroshin OS
+**Autonomous AI assistant**
+
+Local LLM · No cloud · $0 cost
+26-tool Telegram agent
+RAG memory · Security layer
+Multi-agent orchestration
+
+`Python` `Docker` `ChromaDB`
+
+</td>
+<td align="center" width="33%">
+
+### 🔍 KuroRecon
+**Turkish e-commerce intelligence**
+
+Trendyol · HB · Sahibinden · Epey
+Anti-bot bypass built-in
+Cookie management included
+CSV/JSON export ready
+
+`Playwright` `curl_cffi` `Python`
+
+</td>
+<td align="center" width="33%">
+
+### 💻 KuroShinVM
+**Custom CPU architecture**
+
+8-bit VM · 5 registers · 11 opcodes
+KuroC custom language
+Cyberpunk terminal UI
+→ KuroShinOS roadmap
+
+`Python` `Docker` `Custom ISA`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🔬 AI-Model-Scanner
+**ML experiment analyzer**
+
+9,109 files scanned
+3,036 training runs extracted
+Success/failure classification
+Zero external dependencies
+
+`Python` `Regex` `JSON`
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ Kuroshin-CLI
+**LLM protocol reverse-engineering**
+
+mitmproxy traffic interception
+Decoded commercial tool-use JSON
+Gemma LoRA fine-tune result
+85/100 production score
+
+`mitmproxy` `LM Studio` `Ollama`
+
+</td>
+<td align="center" width="33%">
+
+### 📡 Always Building
+**Next project in progress...**
+
+Always building.
+Always shipping.
+Watch this space.
+
+⭐ `Star to follow`
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=python,docker,linux,git,sqlite,vscode,bash&perline=7)](https://skillicons.dev)
+
+<br/>
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/WSL2_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![curl_cffi](https://img.shields.io/badge/curl__cffi-anti--bot-critical?style=flat-square)
+![mitmproxy](https://img.shields.io/badge/mitmproxy-protocol--analysis-blueviolet?style=flat-square)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KuroShinHQ&theme=dracula&column=7&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+<br/>
 
----
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=KuroShinHQ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623&text_color=c9d1d9" />
+<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroShinHQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5a623&text_color=c9d1d9" />
 
-## 📊 GitHub Stats
+<br/>
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KuroShinHQ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroShinHQ&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KuroShinHQ&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=KuroShinHQ&theme=tokyonight&hide_border=true&background=0d1117&ring=f5a623&fire=f5a623&currStreakLabel=f5a623&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -79,10 +162,12 @@
 
 <div align="center">
 
-### 💬 Got a project in mind?
+**Got a project in mind?**
 
 *Web scraping · AI automation · Data pipelines · Telegram bots · LLM tooling*
 
-**Open an issue or drop an email — let's build something.**
+Open an issue or drop an email — **let's build something that works.**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5a623,50:e94560,100:1a1a2e&height=130&section=footer&animation=twinkling" />
