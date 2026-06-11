@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,70:e94560,100:f5a623&height=200&section=header&text=KuroShinHQ&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems+thinker.+AI+builder.+Ships+to+production.&descAlignY=60&descSize=18&descColor=f5a623" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,70:e94560,100:f5a623&height=200&section=header&text=KuroShinHQ&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Systems+thinker.+AI+builder.+Ships+to+production.&descAlignY=60&descSize=18&descColor=f5a623" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=600&color=F5A623&center=true&vCenter=true&width=750&height=40&lines=Reverse-engineered+a+commercial+LLM+protocol+via+mitmproxy;Scraped+10+products+in+2.5s+with+0%25+bot+detection+rate;Designed+a+custom+8-bit+CPU+ISA+%2B+language+from+scratch;97%2F97+tests+passing+on+a+local+35B+param+LLM+system" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=F5A623&center=true&vCenter=true&width=750&height=40&lines=Reverse-engineered+a+commercial+LLM+protocol+via+mitmproxy;Scraped+10+products+in+2.5s+with+0%25+bot+detection+rate;Designed+a+custom+8-bit+CPU+ISA+%2B+language+from+scratch;97%2F97+tests+passing+on+a+local+35B+param+LLM+system" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -258,9 +258,7 @@ research = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KuroShinHQ&theme=onedark&column=7&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=KuroShinHQ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623&text_color=c9d1d9" />
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroShinHQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5a623&text_color=c9d1d9" />
